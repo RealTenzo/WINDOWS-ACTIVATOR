@@ -6,6 +6,7 @@ A simple batch script to activate or deactivate Windows versions. This script al
 
 ## Give This Project A Start If You Liked It And Follow Me For More⭐🌟
 
+---
 
 ## Features
 
@@ -68,8 +69,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
+## Open Source & Safe
+
+This project is open-source and **100% safe** to use. However, please **do not copy or skid** this project without giving proper credit to the original author. If you share it or distribute it, make sure to give credit to **Tenzo** as the creator.
+
+---
+
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **Main Contant!:** [Website]([https://github.com/realtenzo](https://bit.ly/TenzoWeb))
+- **Main Contact!:** [Website](https://bit.ly/TenzoWeb)
